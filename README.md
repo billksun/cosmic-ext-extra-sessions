@@ -25,7 +25,7 @@ No. I won't debate you on it. Go and do this somewhere else and don't expect sup
 
 - Because it's fun!
 - (And it nicely shows off what using common standards can give you.)
--  ((Also, I can't count the amount of issues of people wanting scrolling tiling in COSMIC. Here, just use niri while we decide what to do about this. It's a great projects!))
+-  ((Also, I can't count the amount of issues of people wanting scrolling tiling in COSMIC. Here, just use niri while we decide what to do about this. It's a great project!))
 
 ## How?
 
